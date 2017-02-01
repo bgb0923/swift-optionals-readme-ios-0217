@@ -12,4 +12,5 @@ if let petName = petName {
 if let friendsPet = petName {
     print("My friend's pet name is \(friendsPet)")
     print("pet name is still an optional \(petName)")
+    print("Needed to make a change to recommit")
 }
